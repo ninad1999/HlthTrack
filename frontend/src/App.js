@@ -18,7 +18,7 @@
 //           target="_blank"
 //           rel="noopener noreferrer"
 //         >
-//           Learn React like a
+//           Learn React
 //         </a>
 //       </header>
 //     </div>
