@@ -1,0 +1,32 @@
+.background {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 70px;
+    background: #2D3540;
+    position: fixed;
+    top: 0;
+}
+
+.marginBottom {
+    margin-bottom: 80px;
+}
+
+.space {
+    visibility: hidden;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.text {
+    font-family: 'SF-Pro-Display-Bold';
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.userIcon {
+    margin-left: auto;
+    margin-right: 5vw;
+}
