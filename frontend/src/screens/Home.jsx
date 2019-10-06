@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import './Home.css'
 
-import { Header } from '../components'
+import { Header, Footer } from '../components'
 import { FolderList } from '../containers/'
 
 class Home extends Component {
@@ -19,6 +19,8 @@ class Home extends Component {
             <div>
                 <Header title={title} />
                 <FolderList />
+                <div className="folderList-footerMargin" />
+                <Footer screen="Home" />
             </div>
         )
     }

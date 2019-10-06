@@ -12,6 +12,12 @@ import radiology from './radiology.svg'
 import travel from './travel.svg'
 import untitled from './untitled.svg'
 
+// Footer Images
+
+import addFolder from './addFolder.svg'
+import camera from './camera.svg'
+import divider from './divider.svg'
+
 export {
     // Header Images
     userIcon,
@@ -25,5 +31,10 @@ export {
     prescriptions,
     radiology,
     travel,
-    untitled
+    untitled,
+
+    // Footer Images
+    addFolder,
+    camera,
+    divider
 }

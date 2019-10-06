@@ -1,0 +1,11 @@
+.footer-background {
+    display: flex;
+    height: 70px;
+    width: 100vw;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    background: #2D3540;
+    position: fixed;
+    bottom: 0;
+}

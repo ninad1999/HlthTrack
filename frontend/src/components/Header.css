@@ -1,7 +1,6 @@
-.background {
+.header-background {
     display: flex;
     flex-direction: row;
-    justify-content: center;
     align-items: center;
     width: 100vw;
     height: 70px;
@@ -10,17 +9,17 @@
     top: 0;
 }
 
-.marginBottom {
+.header-marginBottom {
     margin-bottom: 80px;
 }
 
 .space {
     visibility: hidden;
     margin-right: auto;
-    margin-left: auto;
+    margin-left: 12vw;
 }
 
-.text {
+.header-text {
     font-family: 'SF-Pro-Display-Bold';
     font-size: 20px;
     color: #FFFFFF;

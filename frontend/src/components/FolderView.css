@@ -1,7 +1,7 @@
 .folder {
-    height: 15vh;
+    height: 12vh;
     width: auto;
-    margin-top: 7px;
+    margin: 7px 25px 0px 25px;
 }
 
 .folderName {
@@ -9,5 +9,5 @@
     font-size: 15px;
     color: #2D3540;
     text-align: center;
-    margin: 0px 0px 15px 0px;
+    margin: 0px 0px 28px 0px;
 }

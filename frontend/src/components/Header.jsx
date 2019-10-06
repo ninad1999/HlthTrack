@@ -6,12 +6,12 @@ import { userIcon } from '../assets/images'
 const Header = ({ title }) => {
     return (
         <>
-            <div className="background">
+            <div className="header-background">
                 <div className="space" />
-                <p className="text">{title}</p>
+                <p className="header-text">{title}</p>
                 <img src={userIcon} className="userIcon" />
             </div>
-            <div className="marginBottom"/>
+            <div className="header-marginBottom"/>
         </>
     )
 }

@@ -27,7 +27,11 @@ class FolderList extends Component {
         return (
             <div className="layout">
                 {folders.map((folder, index) => {
-                    return <FolderView key={index} folderName={folder} />
+                    return (
+                        <div key={index} onClick={() => console.log(`Clicked ${folder}`)}>
+                            <FolderView key={index} folderName={folder} />
+                        </div>
+                    )
                 })}
             </div>
         )
