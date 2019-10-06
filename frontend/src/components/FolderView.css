@@ -1,0 +1,13 @@
+.folder {
+    height: 12vh;
+    width: auto;
+    margin: 7px 25px 0px 25px;
+}
+
+.folderName {
+    font-family: 'SF-Pro-Display';
+    font-size: 15px;
+    color: #2D3540;
+    text-align: center;
+    margin: 0px 0px 28px 0px;
+}
